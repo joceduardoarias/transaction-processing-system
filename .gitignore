@@ -26,14 +26,10 @@ replay_pid*
 
 # Maven - archivos generados al compilar
 /target/
-*.class
 
 # IntelliJ IDEA - configuracion local
 .idea/
 *.iml
-
-# Logs
-*.log
 
 # Archivos del sistema operativo
 .DS_Store
